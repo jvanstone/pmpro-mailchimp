@@ -188,8 +188,7 @@ function pmpromc_additional_lists_on_checkout() {
 
 	$display_modifier = empty( $pmpro_review ) ? '' : 'style="display: none;"';
 	?>
-	<div id="pmpro_mailing_lists" class="pmpro_checkout top1em" width="100%" cellpadding="0" cellspacing="0"
-		border="0" <?php echo( $display_modifier ); ?>>
+	<div id="pmpro_mailing_lists" class="pmpro_checkout top1em" width="100%" cellpadding="0" cellspacing="0" border="0" <?php echo( $display_modifier ); ?>>
 		<h3>
 			
 				<?php
