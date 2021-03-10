@@ -228,7 +228,6 @@ function pmpromc_additional_lists_on_checkout() {
 					<?php
 				}
 				?>
-			<p>Yes, please sign me up for your newsletter </P>
 		</div>
 	</div>
 	<?php
