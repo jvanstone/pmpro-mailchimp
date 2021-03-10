@@ -47,7 +47,7 @@ function pmpromc_activation() {
 			'unsubscribe'      => 1,
 			'profile_update'   => 0,
 			'users_lists'      => array(),
-			'additional_lists' => array(),
+			'pmpro_mailing_lists' => array(),
 			'level_field'      => '',
 		);
 		update_option( 'pmpromc_options', $options );
